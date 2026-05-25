@@ -1,0 +1,7 @@
+FlagEmbedding
+langchain
+langchain_core
+langchain_huggingface
+pydantic
+pymilvus
+python-dotenv
