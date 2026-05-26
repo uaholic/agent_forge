@@ -73,17 +73,12 @@ OPENAI_BASE_URL=your_base_url
 
 # Examples
 
-## Structured Output
+## LLM Demo
+> examples/chat_chain_demo.py
 
-```bash
-python examples/chat_chain_demo.py
-```
 
 ## RAG Demo
-
-```bash
-python examples/legal_rag_demo.py
-```
+> python examples/legal_rag_demo.py
 
 ---
 
